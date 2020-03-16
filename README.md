@@ -128,7 +128,7 @@ int upload_dev_info(void)
 * 1) Import io9205_coap_control.h io9205_coap_control.c File path.
 * 2) Add a reference to io9205_coap_control.h in io9205_net.h and track_demo_module.h
 
-## 3 Joint Debugging
+## 3. Joint Debugging
 Flash fireware for T95, turn on TurboX T95, start joint debugging:
 
 * 1) Wait 1-2 minutes for SIM card network registration after powered up
