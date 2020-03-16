@@ -4,8 +4,8 @@
 ### 1.1 Demo program recurrence steps
 * Purchase T95 development board
 * Download the SDK and guidance documents of T95
-* Merge Source code
 * Compile new firmware
+* Merge Source code
 * Firmware burning
 * Program effect demonstration
 
