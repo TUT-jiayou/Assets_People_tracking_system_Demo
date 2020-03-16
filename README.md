@@ -134,4 +134,4 @@ Flash fireware for T95, turn on TurboX T95, start joint debugging:
 * 1) Wait 1-2 minutes for SIM card network registration after powered up
 * 2) Click the button2 on T95
 * 3) Log in to the website from server
-* 4) Check the reported data based on the <user guide>
+* 4) Check the reported data based on the "user guide"
